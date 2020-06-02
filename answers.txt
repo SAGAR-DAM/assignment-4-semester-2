@@ -1,0 +1,24 @@
+ANSWERS OF THE WRITTEN PARTS::
+##############################################
+
+PROBLEM 3:
+###############
+time taken for 10000 random numbers without numpy module:  0.005749349780002376
+time taken for 10000 random numbers with numpy module:  0.00011063111900148215
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+PROBLEM 8:
+###############
+area of the unit circle in 2d using monte carlo method:  3.1408644  unit
+true area of unit circle:  3.141592653589793  unit
+
+
+volume of the unit circle in 10d using monte carlo method:  2.5331712  unit
+the true volume of unit sphere in 10d:  2.550164039877345  unit
+
+
+here I have used  10000000  random numbers for both calcuaions
+
+
+(Answers taken from python results anfter run the code)
